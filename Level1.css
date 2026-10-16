@@ -1,0 +1,61 @@
+h1 
+{
+    color: #00ff00;
+}
+
+p
+{
+    color:blue;
+    text-align: left;
+}
+button 
+{
+     color: red;
+     background-color: aqua;
+}
+body 
+{ 
+     background-color: gray;
+}
+#Kaleem{
+    color: blue;
+}
+.Kaleem{
+    color: yellow;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+h4{
+    
+    text-decoration: line-through;
+}
+a{
+    text-decoration: red wavy underline;
+}
+.Haleem{
+    font-weight: lighter;
+}
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#two{
+    font-family: 'Courier New', Courier, monospace;
+}
+#one{
+          font-size: 25px;
+          line-height: 30px;
+}
+ #two{
+          font-size: 20px;
+}
+#three{
+          font-size: 17px;
+}
+/* Text terensfer /uppercse/ lwercase/  */
+#one{
+          font-size: 25px;
+          line-height: 30px;
+          text-transform: capitalize;
+}

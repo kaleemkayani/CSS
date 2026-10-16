@@ -1,0 +1,123 @@
+h1{
+    color: blue;
+    height: 50px;
+    /* width: 150px;
+    background-color: aqua;
+    border-style: dotted; */
+    /* Border Shorthand */
+    border: 2px dotted aqua;
+    text-align: center;
+    text-decoration: dashed;
+    border-radius: 10px;
+    
+}
+/* div{
+     height: 50px;
+     width: 100px;
+     background-color: pink;
+     border-width: 3px;
+     border-style: solid;
+     border-color: brown;
+        border-radius: 10px;
+     
+} */
+/* Padding  */
+/* div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid brown;
+    background-color:pink;
+border-radius: 5px;
+padding:2px 3px 4px 5px ;
+    
+} */
+/* Margin */
+/* div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid brown;
+    background-color:pink;
+border-radius: 5px;
+padding:25px;
+    margin: 25px;
+} */
+
+
+ /*Questin 1  */
+ /* div{
+     height: 100px;
+     width: 100px;
+     background-color: green;
+     border-radius: 50%;
+
+ } */
+  /* Question 2 */
+   *{
+    padding: 0;
+    margin: 0;
+    color: white;
+
+
+  }
+#navbar{
+       height: 60px;
+       background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+     color: #f08804;
+     font-size: 25px;
+}
+a{
+     margin-right: 190px;
+     text-decoration: none;
+} s
+
+/* div {
+     background-color: pink;
+    display: inline;
+}
+button{
+    display: block;
+} */
+ /* Short cut  */
+ /* div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+ }
+ #Box2{
+    visibility: hidden;
+ } */
+ /* long term */
+ /* #red{
+     background-color: red;
+     margin: 25px;
+     padding: 25px;
+     width: 100px;
+     height: 100px;
+ }
+
+#green{
+     background-color: green;
+     margin: 25px;
+     padding: 25px;
+     width: 100px;
+     height: 100px;
+ }
+ 
+ #blue{
+     background-color: blue;
+     margin: 25px;
+     padding: 25px;
+     width: 100px;
+     height: 100px;
+ }
+  */
+
+
+  
